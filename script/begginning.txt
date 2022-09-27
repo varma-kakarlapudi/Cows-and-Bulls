@@ -1,4 +1,0 @@
-begin scene
-interval
-climax
-end
